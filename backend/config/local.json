@@ -1,0 +1,16 @@
+{
+  "port": 5000,
+  "secretKey": {
+    "emailEncryption": "Ho+*5le-ZPsTV~c",
+    "graphHopper": "6712926d-b965-443c-b80e-f348680a6896"
+  },
+  "adminAuth": {
+    "adminEmail": "admin@saywah.com",
+    "adminPassword": "Saywah@123"
+  },
+  "hashLength": 10,
+  "jwt": {
+    "secret": "9cvrSBzHzGP9pPXR5nLR",
+    "tokenExpire": "30m"
+  }
+}

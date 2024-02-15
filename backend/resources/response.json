@@ -1,0 +1,17 @@
+{
+  "SUCCESS": "Success",
+  "PATH_SUCCESS": "data send successfully",
+  "DEFAULT": "Something Went Wrong",
+  "DUPLICATE": "Duplicate entry.",
+  "APP_ERROR": "Application error occurred.",
+  "INVALID_TOKEN": "Invalid Token",
+  "USER_NOT_FOUND": "No Such User",
+  "DB_ERROR": "Database Error",
+  "INVALID_EMAIL": "Wrong Email",
+  "WRONG_LOGIN_PASSWORD": "Wrong Password",
+  "USER_CREATED_SUCCESSFULLY": "User Created Successfully",
+  "USER_UPDATED_SUCCESSFULLY": "User Updated Successfully",
+  "ADDRESS_CREATED_SUCCESSFULLY": "Address Created Successfully",
+  "ADDRESS_NOT_FOUND": "No Such Address",
+  "USER_EXISTS": "User Already Exists"
+}
